@@ -13,7 +13,7 @@ the languages i'm venturing at the moment are javascript and c / c ++. I am inte
 * **Age**: 19 
 * **Livin in**: Oliveira, Minas Gerais
 * **Stack**: Javascript - node.js - HTML - CSS
-* **University**: Universidade Federal de São João Del Rei
+* **University**: Ciencia da Computação - Universidade Federal de São João Del Rei
 
 
 
