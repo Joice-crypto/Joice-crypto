@@ -3,7 +3,7 @@
 
 ### Public information
 Hi i'm Joice Cristina a enthusiastic backend developer from Brazil 👋
-the languages i'm venturing at the moment are javascript and c / c ++. I am interested in following in the area of ​​backend development but i also like the area of ​​games
+the languages i'm venturing at the moment are javascript and c#. I am interested in following in the area of ​​backend development but i also like the area of ​​games
 
 
 
