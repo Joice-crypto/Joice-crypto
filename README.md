@@ -2,7 +2,7 @@
 
 
 ### Public information
-Hi i'm Joice Cristina a enthusiastic backend developer from Brazil 👋
+Hi i'm Joice Cristina a developer web from Brazil 👋
 the languages i'm venturing at the moment are javascript and c#. I am interested in following in the area of ​​backend development but i also like the area of ​​games
 
 
