@@ -3,17 +3,9 @@
 
 ### Public information
 Hi i'm Joice Cristina a developer web from Brazil 👋
-the languages i'm venturing at the moment are javascript and c#. I am interested in following in the area of ​​backend development but i also like the area of ​​games
+the languages i'm venturing at the moment are javascript and php.
 
 
-
-### Detailed information
-
-* **Name**: Joice Cristina 
-* **Age**: 19 
-* **Livin in**: Oliveira, Minas Gerais
-* **Stack**: C# - Javascript - node.js - HTML - CSS
-* **University**: Ciencia da Computação - Universidade Federal de São João Del Rei
 
 
 
