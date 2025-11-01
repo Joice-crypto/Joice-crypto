@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Joice Cristina, 23 years old a computer science student, passionate about technology and felines.
+I'm Joice Cristina, 24 years old a computer science student, passionate about technology and felines.
 
 ## Contact me:
 <a href="https://www.instagram.com/joice_crsilva/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
